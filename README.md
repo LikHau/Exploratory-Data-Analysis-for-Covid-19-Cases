@@ -1,4 +1,4 @@
-# exploratory data analysis for covid-19 cases
+# Exploratory Data Analysis for Covid-19 Cases
 
 ## Dataset
 1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
