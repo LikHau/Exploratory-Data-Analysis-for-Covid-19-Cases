@@ -8,7 +8,7 @@
 5) [`vaxreg_malaysia.csv`](https://github.com/CITF-Malaysia/citf-public/blob/main/registration/vaxreg_malaysia.csv): Cumulative registrations for vaccination at country level, as at 2359 of date.
 6) [`vaxreg_state.csv`](https://github.com/CITF-Malaysia/citf-public/blob/main/registration/vaxreg_state.csv): Cumulative registrations vaccination at state level, as at 2359 of date.
 7) [`population.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/static/population.csv): Total, adult (≥18), and elderly (≥60) population at state level.
-8) [`malaysia.geojson`](https://github.com/codeforamerica/click_that_hood/blob/master/public/data/malaysia.geojson): malaysia.geojson: all the Malaysia borders coordinates (latitude and longitude).
+8) [`malaysia.geojson`](https://github.com/codeforamerica/click_that_hood/blob/master/public/data/malaysia.geojson): malaysia.geojson: all Malaysia states borders coordinates (latitude and longitude).
 
 ## Reference
 1. https://github.com/MoH-Malaysia/covid19-public
