@@ -10,8 +10,9 @@
 7) [`deaths_malaysia.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
 8) [`deaths_state.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
 9) [`tests_malaysia.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/tests_malaysia.csv): Daily tests (note: not necessarily unique individuals) by type at country level, as of 1200 of date.
-10) [`population.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/static/population.csv): Total, adult (≥18), and elderly (≥60) population at state level.
-11) [`malaysia.geojson`](https://github.com/codeforamerica/click_that_hood/blob/master/public/data/malaysia.geojson): malaysia.geojson: all Malaysia states borders coordinates (latitude and longitude).
+10) [`clusters.csv`](https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
+11) [`population.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/static/population.csv): Total, adult (≥18), and elderly (≥60) population at state level.
+12) [`malaysia.geojson`](https://github.com/codeforamerica/click_that_hood/blob/master/public/data/malaysia.geojson): malaysia.geojson: all Malaysia states borders coordinates (latitude and longitude).
 
 ## Reference
 1. https://github.com/MoH-Malaysia/covid19-public
