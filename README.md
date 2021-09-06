@@ -2,7 +2,7 @@
 
 ## Description
 Covid cases analysis, vaccination analysis, cluster analysis. All these analysis are finally shown to viewer via data visualzation techniques.
-*use this 'https://nbviewer.jupyter.org/github/LikHau/Exploratory-Data-Analysis-for-Covid-19-Cases/blob/main/Covid%2019%20Malaysia.ipynb' link to view the file if above ipynb.file cannot work.
+*use this 'https://nbviewer.jupyter.org/github/LikHau/Exploratory-Data-Analysis-for-Covid-19-Cases/blob/main/Covid%2019%20Malaysia.ipynb' link to view the file if ipynb.file cannot work.
 
 ## Dataset
 1) [`cases_malaysia.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
